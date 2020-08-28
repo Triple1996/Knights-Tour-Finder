@@ -1,2 +1,3 @@
 # Knights-Tour-Finder
-Generates a solved 8x8 board of a Knights Tour and prints the number, n, of recursive steps it took to find it
+
+This program will print a solved 8x8 chess board of a Knight's Tour and the number of recursive steps, n, it took to find it.
